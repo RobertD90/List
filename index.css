@@ -1,0 +1,103 @@
+.PANTRY {
+    background-color: rgb(243, 237, 229);
+    width: 283px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: 8px;
+    position: relative;
+}
+
+.CANNED {
+    /* display: inline-block; */
+    display: grid;
+    position: relative;
+    top: -5;
+    background-color: rgb(194, 194, 173);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    vertical-align: middle;
+    margin: 8px;
+    float: left;
+}
+
+.DRY_GOODS {
+    /* display: inline-block; */
+    display: grid;
+    position: relative;
+    top: -5;
+    background-color: rgb(194, 194, 173);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    vertical-align: middle;
+    margin: 8px;
+    float: left;
+}
+
+.test {
+    padding-right: -10px;
+}
+
+.FREEZER_ITEMS {
+    background-color: rgb(243, 237, 229);
+    width: 283px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    margin: -30px;
+    margin-top: +180px;
+    position: absolute;
+}
+
+/* .dryclass {
+    list-style-type: none;
+} */
+
+.VEGGIES {
+    display: grid;
+    position: absolute;
+    top: 350;
+    background-color: rgb(194, 194, 173);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    vertical-align: left;
+    margin: 8px;
+    /* float: left; */
+}
+
+.SNACKS {
+    display: grid;
+    position: absolute;
+    left: 206;
+    top: 350;
+    background-color: rgb(194, 194, 173);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 20px;
+    vertical-align: middle;
+    margin: 8px;
+    float: right;
+    height: 114px;
+    vertical-align: text-bottom;
+
+}
+
+#image1 {
+    /* display: grid;
+    position: absolute;
+    top: 400;
+    background-color: rgb(194, 194, 173);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    vertical-align: left;
+    margin: 30px;
+    float: left; */
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-bottom: 1px;
+    margin-left: 100px;
+}
+
+#image2 {
+    margin-top: 10px;
+    margin-right: 100px;
+    margin-bottom: 1px;
+    margin-left: 100px;
+}
